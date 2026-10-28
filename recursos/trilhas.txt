@@ -1,0 +1,4 @@
+1;Inteligência artificial;ele é bom pois você aprende a como utilizar de forma correta e aprendendo o dobro.
+2;Desenvolvimento Web;com esse curso você podera criar uma web da forma que você quiser e sobre oque quiser.
+3;Robótica;o curso de robótica ensina a projetar, montar e programar robôs e sistemas automatizados.
+4;Eletroeletronica ;O curso técnico em eletroeletrônica capacita o profissional a desenvolver, instalar, montar, programar e fazer manutenção em sistemas elétricos e eletrônicos .
